@@ -1,0 +1,11 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+a:visited{
+	color: purple;
+}
+a:link{
+	text-decoration: none;
+}
